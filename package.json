@@ -1,0 +1,9 @@
+{
+    "name": "telegram-karma-bot",
+    "version": "1.0",
+    "author": "Fomchenkov Vyacheslav",
+    "dependencies": {
+        "sqlite3": "^3.1.8",
+        "telegraf": "^3.8.0"
+    }
+}
